@@ -1,0 +1,32 @@
+id: P38E39994
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA23785
+  instance_id: http://purl.bdrc.io/resource/IE23785
+  collection_id: http://purl.bdrc.io/resource/PR0ET002
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ། གྲགས་པ་འབྱུང་གནས།
+  alt_title:
+    en-x-mixed:
+    - The collected works (gsuṅ ʾbum) of Grags pa ʾbyuṅ gnas, a chief disciple of
+      the Skyob-pa-ʾjig-rten-gsum-mgon, 1175-1255 /[edited] by H.H. Drikung Kyabgon
+      Chetsang (Konchog Tenzin Kunzang Thinley Lhundub).
+  author: http://purl.bdrc.io/resource/P132
+  publisher: DrikungChetsang
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    88d6d8d6280349f18e55238b0774c2cd:
+      title: ༄༅།་།ཁམས་གསུམ་ཆོས་ཀྱི་རྒྱལ་པོ་ཐུབ་དབང་རཏྣ་ཤྲཱིའི་ཐུགས་སྲས་ཐམས་ཅད་མཁྱེན་པ་སྤྱན་སྔ་གྲགས་པ་འབྱུང་གནས་ཀྱི་གསུང་འབུམ་བཞུགས་སོ།་།
+      volume_number: 1
+      base_file: UT23785_001_0003.txt
+      reference: http://purl.bdrc.io/resource/VL40F03CEECFE03982
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW23785
+  - http://purl.bdrc.io/resource/W23785
+created_at: '2021-12-22T11:09:39.335932'
+last_modified_at: '2021-12-22T11:09:39.335938'
